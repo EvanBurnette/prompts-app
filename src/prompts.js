@@ -1,21 +1,4 @@
 // src/prompts.js
-// export const contextualPrompts = [
-//   "Describe your current environment.",
-//   "What's the weather like?",
-//   "Write about the sounds you hear."
-// ];
-
-// export const structuralPrompts = [
-//   "Create a story with a beginning, middle, and end.",
-//   "Write a poem with three stanzas.",
-//   "Draft a dialogue between two characters."
-// ];
-
-// export const musicalPrompts = [
-//   "Compose a song about the sea.",
-//   "Write lyrics for a lullaby.",
-//   "Create a rap about technology."
-// ];
 
 export const contextualPrompts = [
   "Zoom into an object near you and write about it in detail",
@@ -36,11 +19,12 @@ export const contextualPrompts = [
   "Choose at random 1. Type of weather (eg. thunder storm), 2. A colour (eg. fluorescent yellow), 3. A feeling (eg. inferiority) and 4. A place (eg. the bathroom). Work these four elements into your song.",
   "Pick a character from Alice in Wonderland to star in your song.",
   "Tune into your body. Close your eyes and take a breath. Let your body or a body part speak. What does it want to tell you? What secrets is it holding?",
-  "Reference a fairytale you remember from your childhood (ie. Goldilocks, Sleeping Beauty, Red Riding Hood, Three Little Pigs etc)."
+  "Reference a fairytale you remember from your childhood (ie. Goldilocks, Sleeping Beauty, Red Riding Hood, Three Little Pigs etc).",
+  "Choose a random word and find a synonym for it. Is it really a synonym? What's different between the two words?"
 ]
 
 export const structuralPrompts = [
-  "Don't rhyme",
+  "Don't rhyme at all",
   "Write in Prose",
   "A-B-C-D. (The song sections never repeat)",
   "Write a story that starts at the end and flashes back.",
