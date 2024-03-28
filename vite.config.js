@@ -3,6 +3,6 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: 'prompts-app',
+  base: 'prompts-app',
   plugins: [svelte()],
 })
