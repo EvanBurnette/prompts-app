@@ -1,7 +1,7 @@
 <script>
   let countdown = 20 * 60; // 20 minutes in seconds
   let interval;
-  let bellSound = new Audio("/bell.ogg"); // Ensure the path is correct based on your project structure
+  let bellSound = new Audio("bell.ogg"); // Ensure the path is correct based on your project structure
   function startCountdown() {
     clearInterval(interval);
     interval = setInterval(() => {
