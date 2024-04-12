@@ -1,6 +1,7 @@
 // src/prompts.js
 
 export const contextualPrompts = [
+  'Walking through a forest with a light wind blowing through the pines, sometimes called Shinrin-yoku or "forest bathing"',
   "Zoom into an object near you and write about it in detail",
   "Imagine you are 1000 years in the past",
   "Imagine you are 1000 years in the future",
